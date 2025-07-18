@@ -1,0 +1,26 @@
+# Email Classification 📧
+
+This project uses Machine Learning to classify emails as spam or not spam.
+
+## 🧠 Algorithms Used
+- CountVectorizer (Feature extraction)
+- Multinomial Naive Bayes
+
+## 🛠️ Libraries Used
+- scikit-learn
+- pandas
+- numpy
+
+## 📂 Files
+- `e-mail classification (1).ipynb` — Main Jupyter notebook
+
+## 🚀 How to Run
+1. Clone the repo or download the notebook.
+2. Run it in Jupyter Notebook or Google Colab.
+
+## ✅ Output
+The model trains on labeled data and predicts whether new emails are spam.
+
+---
+
+> This project is a simple demonstration for educational purposes.
